@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of France?",
+    "answers": ["Paris", "Berlin", "London", "Rome"],
+    "correct_answer": "Paris"
+  },
+  {
+    "id": 2,
+    "question": "Who wrote the novel '1984'?",
+    "answers": [
+      "George Orwell",
+      "J.K. Rowling",
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald"
+    ],
+    "correct_answer": "George Orwell"
+  },
+  {
+    "id": 3,
+    "question": "What is the chemical symbol for water?",
+    "answers": ["H2O", "CO2", "O2", "NaCl"],
+    "correct_answer": "H2O"
+  },
+  {
+    "id": 4,
+    "question": "Who painted the Mona Lisa?",
+    "answers": [
+      "Leonardo da Vinci",
+      "Pablo Picasso",
+      "Vincent van Gogh",
+      "Michelangelo"
+    ],
+    "correct_answer": "Leonardo da Vinci"
+  },
+  {
+    "id": 5,
+    "question": "What is the tallest mountain in the world?",
+    "answers": ["Mount Everest", "K2", "Kangchenjunga", "Lhotse"],
+    "correct_answer": "Mount Everest"
+  },
+  {
+    "id": 6,
+    "question": "What is the capital of Japan?",
+    "answers": ["Tokyo", "Beijing", "Seoul", "Bangkok"],
+    "correct_answer": "Tokyo"
+  },
+  {
+    "id": 7,
+    "question": "Who invented the telephone?",
+    "answers": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Guglielmo Marconi"
+    ],
+    "correct_answer": "Alexander Graham Bell"
+  },
+  {
+    "id": 8,
+    "question": "What is the powerhouse of the cell?",
+    "answers": ["Mitochondria", "Nucleus", "Ribosome", "Endoplasmic reticulum"],
+    "correct_answer": "Mitochondria"
+  },
+  {
+    "id": 9,
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "answers": [
+      "Harper Lee",
+      "Mark Twain",
+      "John Steinbeck",
+      "F. Scott Fitzgerald"
+    ],
+    "correct_answer": "Harper Lee"
+  },
+  {
+    "id": 10,
+    "question": "What is the chemical symbol for gold?",
+    "answers": ["Au", "Ag", "Pt", "Hg"],
+    "correct_answer": "Au"
+  },
+  {
+    "id": 11,
+    "question": "What is the largest planet in our solar system?",
+    "answers": ["Jupiter", "Saturn", "Neptune", "Uranus"],
+    "correct_answer": "Jupiter"
+  },
+  {
+    "id": 12,
+    "question": "Who painted 'Starry Night'?",
+    "answers": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Claude Monet",
+      "Salvador Dalí"
+    ],
+    "correct_answer": "Vincent van Gogh"
+  },
+  {
+    "id": 13,
+    "question": "What is the currency of Germany?",
+    "answers": ["Euro", "Dollar", "Pound", "Yen"],
+    "correct_answer": "Euro"
+  },
+  {
+    "id": 14,
+    "question": "Who is known as the 'Father of Computers'?",
+    "answers": ["Charles Babbage", "Alan Turing", "Steve Jobs", "Bill Gates"],
+    "correct_answer": "Charles Babbage"
+  },
+  {
+    "id": 15,
+    "question": "What is the capital of Australia?",
+    "answers": ["Canberra", "Sydney", "Melbourne", "Perth"],
+    "correct_answer": "Canberra"
+  },
+  {
+    "id": 16,
+    "question": "Who discovered penicillin?",
+    "answers": [
+      "Alexander Fleming",
+      "Louis Pasteur",
+      "Robert Koch",
+      "Edward Jenner"
+    ],
+    "correct_answer": "Alexander Fleming"
+  },
+  {
+    "id": 17,
+    "question": "What is the chemical symbol for iron?",
+    "answers": ["Fe", "I", "Au", "Ag"],
+    "correct_answer": "Fe"
+  },
+  {
+    "id": 18,
+    "question": "Who wrote 'The Great Gatsby'?",
+    "answers": [
+      "F. Scott Fitzgerald",
+      "Ernest Hemingway",
+      "J.D. Salinger",
+      "John Steinbeck"
+    ],
+    "correct_answer": "F. Scott Fitzgerald"
+  },
+  {
+    "id": 19,
+    "question": "What is the largest ocean on Earth?",
+    "answers": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correct_answer": "Pacific Ocean"
+  },
+  {
+    "id": 20,
+    "question": "Who composed 'Symphony No. 9'?",
+    "answers": [
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Pyotr Ilyich Tchaikovsky"
+    ],
+    "correct_answer": "Ludwig van Beethoven"
+  }
+]
